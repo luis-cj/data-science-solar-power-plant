@@ -17,4 +17,3 @@ Before sending the technical team to fix the problem the data science team is re
 ### 1. Objective
 Analyse the available data to find out what is causing the problem in the power plants and conclude if it is necessary to send a technical team to fix the problem in site.
 
-Find the property profile that maximise the potential revenue in the renting retail market and the main neighbourhoods where these are situated.
