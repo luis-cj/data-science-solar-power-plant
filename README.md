@@ -7,8 +7,7 @@ This is a **discovery project**, where the main goal is to explore the data sour
 A renewable energy supplier owns solar power plants that produce electrical energy. Two of those power plants present power production anomalies and the maintenance team does not know the root of the problem.
 
 <p align="center">
-  <img width="500" height="500" src="https://github.com/luis-cj/data-science-solar-power-plant/tree/main/images/plant.gif">
+  <img width="500" height="500" src="https://github.com/luis-cj/data-science-solar-power-plant/blob/main/images/plant2.gif">
 </p>
 
 Before sending the technical team to fix the problem the data science team is required to analyse the sensors' data to make a first approximation to the root cause of failure of the equipment.
-
