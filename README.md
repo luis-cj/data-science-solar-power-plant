@@ -1,4 +1,4 @@
-# Data science project: solar power plant analysis using power generation data
+# Data science project: solar power plant analysis using power generation data (UNFINISHED)
 Data science project analysing solar power plant generation data to help a renewable energy supplier make strategic decisions.
 
 This is a **discovery project**, where the main goal is to explore the data sources, check hypotheses and find out new patterns and insights relevant for the business without requiring any machine learning algorithm.
@@ -80,3 +80,15 @@ About sensors:
 - Are the DC data reliable?
 - Are the AC data reliable?
 - Are data between both power plants similar?
+
+### 6. Analysis and insights
+All the analysis is carried out in the following Jupyter Notebooks (Python):
+
+
+### 7. Communication
+For this project a report was generated in the format of a PowerPoint presentation, communicating all the analysis and found insights.
+The report can be checked in the following file:
+
+## BONUS: Lessons learnt
+
+
