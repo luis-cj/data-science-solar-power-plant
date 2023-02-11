@@ -44,3 +44,39 @@ The relevant entities we can retrieve data from in order to accomplish our objec
 - Module temperature sensor: 1 for each plant
 
 All the sensors retrieve data every 15 minutes, and the total data set comprises 34 days.
+
+### 5. Seed questions
+These are the first questions we need to start finding relevant insights. Different questions apply to each lever.
+
+About irradiance:
+
+- Is there enough irradiance every day?
+- Is it similar for both power plants?
+- What is its hourly distribution for each plant?
+- How does it relate to ambient and module temperature?
+
+About panel status (DC generation):
+
+- What is the relationship between irradiance and DC generation?
+- Is it affected by ambient or module temperature?
+- Is it similar for both power plants?
+- What is its daily distribution for each plant?
+- Is it constant throughout the days?
+- Has there been any failure?
+
+About inverters' performance (AC generation):
+
+- What is the relationship between DC and AC generation?
+- Is it similar for both power plants?
+- What is its daily distribution for each plant?
+- Is it constant throughout the days?
+- Is it constant for every inverter?
+- Has there been any failure?
+
+About sensors:
+
+- Are the irradiance data reliable?
+- Are the temperature data reliable?
+- Are the DC data reliable?
+- Are the AC data reliable?
+- Are data between both power plants similar?
