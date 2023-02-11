@@ -26,3 +26,8 @@ With that, the levers (variables that affect the business objective, which in th
 - **Panel cleaning**: it is important to have clean modules so they can perform at their full capacity.
 - **Inverters' performance**: the process of transforming DC into AC is never 100% efficient. But the closer to 100% the better.
 - **Sensors**: if sensors do not work correctly then it is not possible to detect potential plant failures.
+
+### 3. KPIs
+- The irradiance is measured as the rate of energy hitting a surface per squared meter [W/m<sup>2</sup>]
+
+
