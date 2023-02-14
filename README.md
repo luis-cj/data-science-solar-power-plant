@@ -96,4 +96,4 @@ The report can be checked in the following file:
 
 ## BONUS: Lessons learnt
 
-
+- **Sometimes data do not make sense**. It is important to have good communication with the clients or stakeholders because at some point we may need some clarifications about data (missing values, wrong units, wrong dates, etc).
