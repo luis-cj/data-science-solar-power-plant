@@ -84,11 +84,11 @@ About sensors:
 ### 6. Analysis and insights
 All the analysis is carried out in the following Jupyter Notebooks (Python):
 
-[Solar power plant generation analysis - Python script (PART 1)](https://github.com/luis-cj/data-science-solar-power-plant/blob/main/solar_power_plant_part_1.ipynb)
+[Solar power plant generation analysis - Python script (PART 1 - DATA QUALITY)](https://github.com/luis-cj/data-science-solar-power-plant/blob/main/solar_power_plant_part_1.ipynb)
 
-[Solar power plant generation analysis - Python script (PART 2)](https://github.com/luis-cj/data-science-solar-power-plant/blob/main/solar_power_plant_part_2.ipynb)
+[Solar power plant generation analysis - Python script (PART 2 - DATA TRANSFORMATION)](https://github.com/luis-cj/data-science-solar-power-plant/blob/main/solar_power_plant_part_2.ipynb)
 
-[Solar power plant generation analysis - Python script (PART 3)](https://github.com/luis-cj/data-science-solar-power-plant/blob/main/solar_power_plant_part_3.ipynb)
+[Solar power plant generation analysis - Python script (PART 3 - ANALYSIS AND INSIGHTS)](https://github.com/luis-cj/data-science-solar-power-plant/blob/main/solar_power_plant_part_3.ipynb)
 
 ### 7. Communication
 For this project a report was generated in the format of a PowerPoint presentation, communicating all the analysis and found insights.
