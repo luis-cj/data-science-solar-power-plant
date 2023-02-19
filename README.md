@@ -94,6 +94,8 @@ All the analysis is carried out in the following Jupyter Notebooks (Python):
 For this project a report was generated in the format of a PowerPoint presentation, communicating all the analysis and found insights.
 The report can be checked in the following file:
 
+[Data analysis summary PDF](https://github.com/luis-cj/data-science-solar-power-plant/blob/main/solar_power_plant_conclusions.pdf)
+
 ## BONUS: Lessons learnt
 
 - **Sometimes data do not make sense**. It is important to have good communication with the clients or stakeholders because at some point we may need some clarifications about data (missing values, wrong units, wrong dates, etc).
