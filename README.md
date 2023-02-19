@@ -25,7 +25,7 @@ Before proceeding with the other points, it is important to know the basics of s
   <img width="542" height="238" src="https://github.com/luis-cj/data-science-solar-power-plant/blob/main/images/How_Solar_Power_Works.png">
 </p>
 
-A solar power plant is a facility that generates electricity using photovoltaic (PV) cells that convert sunlight into electricity. The PV cells are arranged in arrays or modules and connected to inverters that convert the DC electricity produced by the cells into AC electricity that can be fed into the power grid or directly used to switch on electrical household appliances.
+A solar power plant is a facility that generates electricity using photovoltaic (PV) cells that convert sunlight into electricity. The PV cells are arranged in arrays or modules and connected to inverters that convert the direct current (DC) electricity produced by the cells into alternate current (AC) electricity that can be fed into the power grid or directly used to switch on electrical household appliances.
 
 During the day, the PV cells produce electricity as long as there is sunlight, and any excess electricity can be stored in batteries or exported to the grid. At night or when there is not enough sunlight, electricity is drawn from the grid or from the batteries.
 
