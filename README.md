@@ -17,6 +17,20 @@ Before sending the technical team to fix the problem the data science team is re
 ### 1. Objective
 Analyse the available data to find out what is causing the problem in the power plants and conclude if it is necessary to send a technical team to fix the problem in site.
 
+Before proceeding with the project itself, it is important to know the basics of solar power production. 
+
+### What is a solar power plant?
+
+<p align="center">
+  <img width="500" height="500" src="https://github.com/luis-cj/data-science-solar-power-plant/blob/main/images/How_Solar_Power_Works.png">
+</p>
+
+A solar power plant is a facility that generates electricity using photovoltaic (PV) cells that convert sunlight into electricity. The PV cells are arranged in arrays or modules and connected to inverters that convert the DC electricity produced by the cells into AC electricity that can be fed into the power grid. The plant has a control system that monitors the performance of the PV cells and inverters to optimize their performance.
+
+During the day, the PV cells produce electricity as long as there is sunlight, and any excess electricity can be stored in batteries or exported to the grid. At night or when there is not enough sunlight, electricity is drawn from the grid or from the batteries. The ability to store excess electricity in batteries is particularly important for solar power plants because it enables them to continue generating electricity during periods of low sunlight or at night.
+
+In this case only the generation data is taken into account assuming there are no batteries as energy storage systems.
+
 ### 2. Levers (action variables)
 It is necessary to have some knowledge about how the energy is generated in a solar power plant. The data science team has been informed by the technical team on how the process works. 
 
