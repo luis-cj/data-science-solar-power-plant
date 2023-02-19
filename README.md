@@ -17,7 +17,7 @@ Before sending the technical team to fix the problem the data science team is re
 ### 1. Objective
 Analyse the available data to find out what is causing the problem in the power plants and conclude if it is necessary to send a technical team to fix the problem in site.
 
-Before proceeding with the project itself, it is important to know the basics of solar power production. 
+Before proceeding with the other points, it is important to know the basics of solar power production. 
 
 ### What is a solar power plant?
 
