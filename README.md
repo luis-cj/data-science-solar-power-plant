@@ -22,7 +22,7 @@ Before proceeding with the project itself, it is important to know the basics of
 ### What is a solar power plant?
 
 <p align="center">
-  <img width="500" height="500" src="https://github.com/luis-cj/data-science-solar-power-plant/blob/main/images/How_Solar_Power_Works.png">
+  <img width="542" height="238" src="https://github.com/luis-cj/data-science-solar-power-plant/blob/main/images/How_Solar_Power_Works.png">
 </p>
 
 A solar power plant is a facility that generates electricity using photovoltaic (PV) cells that convert sunlight into electricity. The PV cells are arranged in arrays or modules and connected to inverters that convert the DC electricity produced by the cells into AC electricity that can be fed into the power grid. The plant has a control system that monitors the performance of the PV cells and inverters to optimize their performance.
